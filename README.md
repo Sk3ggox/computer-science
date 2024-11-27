@@ -35,7 +35,7 @@
 ## Core CS
 Completed | Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--: | :--:
-| [Systematic Program Design](coursepages/spd/README.md) | 13 weeks | 8-10 hours/week | none | chat: [part 1](https://discord.gg/RfqAmGJ) / [part 2](https://discord.gg/kczJzpm)
+✅ | [Systematic Program Design](coursepages/spd/README.md) | 13 weeks | 8-10 hours/week | none | chat: [part 1](https://discord.gg/RfqAmGJ) / [part 2](https://discord.gg/kczJzpm)
 | [Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | 13 weeks | 5-10 hours/week | Systematic Program Design, High School Math | [chat](https://discord.com/channels/744385009028431943/891411727294562314)
 | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | 4-8 hours/week | Systematic Program Design ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | [chat](https://discord.gg/8BkJtXN)
 | [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 4-8 hours/week | Programming Languages, Part A | [chat](https://discord.gg/EeA7VR9)
@@ -44,16 +44,6 @@ Completed | Courses | Duration | Effort | Prerequisites | Discussion
 | [Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 2-5 hours/week | Object Oriented Design | [chat](https://discord.com/channels/744385009028431943/891412169638432788)
 
 ### Core math
-Discrete math (Math for CS) is a prerequisite and closely related to the study of algorithms and data structures. Calculus both prepares students for discrete math and helps students develop mathematical maturity.
-
-**Topics covered**:
-`discrete mathematics`
-`mathematical proofs`
-`basic statistics`
-`O-notation`
-`discrete probability`
-`and more`
-
 Courses | Duration | Effort | Notes | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--: | :--:
 [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) ([alternative](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)) | 13 weeks | 6-10 hours/week | The alternate covers this and the following 2 courses | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/mPCt45F)
@@ -63,37 +53,11 @@ Courses | Duration | Effort | Notes | Prerequisites | Discussion
 
 
 ### CS Tools
-Understanding theory is important, but you will also be expected to create programs. There are a number of tools that are widely used to make that process easier. Learn them now to ease your future work writing programs.
-
-**Topics covered**:
-`terminals and shell scripting`
-`vim`
-`command line environments`
-`version control`
-`and more`
-
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week | - | [chat](https://discord.gg/5FvKycS)
 
 ### Core systems
-
-**Topics covered**:
-`procedural programming`
-`manual memory management`
-`boolean algebra`
-`gate logic`
-`memory`
-`computer architecture`
-`assembly`
-`machine language`
-`virtual machines`
-`high-level languages`
-`compilers`
-`operating systems`
-`network protocols`
-`and more`
-
 Courses | Duration | Effort | Additional Text / Assignments| Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--: | :--:
 [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alternative](https://www.nand2tetris.org/)) | 6 weeks | 7-13 hours/week | - | C-like programming language | [chat](https://discord.gg/vxB2DRV)
@@ -102,20 +66,6 @@ Courses | Duration | Effort | Additional Text / Assignments| Prerequisites | Dis
 [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | 4–12 hours/week | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | algebra, probability, basic CS | [chat](https://discord.gg/MJ9YXyV)
 
 ### Core theory
-
-**Topics covered**:
-`divide and conquer`
-`sorting and searching`
-`randomized algorithms`
-`graph search`
-`shortest paths`
-`data structures`
-`greedy algorithms`
-`minimum spanning trees`
-`dynamic programming`
-`NP-completeness`
-`and more`
-
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | 4 weeks | 4-8 hours/week | any programming language, Mathematics for Computer Science | [chat](https://discord.gg/mKRS7tY)
@@ -124,15 +74,6 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | 4-8 hours/week | Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming | [chat](https://discord.gg/dYuY78u)
 
 ### Core security
-**Topics covered**
-`Confidentiality, Integrity, Availability`
-`Secure Design`
-`Defensive Programming`
-`Threats and Attacks`
-`Network Security`
-`Cryptography`
-`and more`
-
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals) | 8 weeks | 10-12 hours/week | - | [chat](https://discord.gg/XdY3AwTFK4)
@@ -147,22 +88,6 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | 4 weeks | 5 hours/week | - | [chat](https://discord.gg/QxC22rR)
 
 ### Core applications
-
-**Topics covered**:
-`Agile methodology`
-`REST`
-`software specifications`
-`refactoring`
-`relational databases`
-`transaction processing`
-`data modeling`
-`neural networks`
-`supervised learning`
-`unsupervised learning`
-`OpenGL`
-`ray tracing`
-`and more`
-
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/pMFqNf4)
@@ -173,15 +98,6 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Software Engineering: Introduction](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) | 6 weeks | 8-10 hours/week | Core Programming, and a [sizable project](FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses) | [chat](https://discord.gg/5Qtcwtz)
 
 ### Core ethics
-
-**Topics covered**:
-`Social Context`
-`Analytical Tools`
-`Professional Ethics`
-`Intellectual Property`
-`Privacy and Civil Liberties`
-`and more`
-
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering)| 9 weeks | 2 hours/week | none | [chat](https://discord.gg/6ttjPmzZbe)
@@ -189,22 +105,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy)| 3 weeks | 3 hours/week | none | [chat](https://discord.gg/64J34ajNBd)
 
 ## Advanced CS
-
-After completing **every required course** in Core CS, students should choose a subset of courses from Advanced CS based on interest.
-Not every course from a subcategory needs to be taken.
-But students should take *every* course that is relevant to the field they intend to go into.
-
 ### Advanced programming
-
-**Topics covered**:
-`debugging theory and practice`
-`goal-oriented programming`
-`parallel computing`
-`object-oriented analysis and design`
-`UML`
-`large-scale software architecture and design`
-`and more`
-
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming)| 4 weeks | 6-8 hours/week | Scala programming
@@ -213,27 +114,7 @@ Courses | Duration | Effort | Prerequisites
 [Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online) ([alternative](https://github.com/ossu/computer-science/files/6085884/lpn.pdf))*| 12 weeks | - | -
 [Software Debugging](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A)| 8 weeks | 6 hours/week | Python, object-oriented programming
 [Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g) | 4 weeks | 6 hours/week | Python, programming experience
-
-(*) book by Blackburn, Bos, Striegnitz (compiled from [source](https://github.com/LearnPrologNow/lpn), redistributed under [CC license](https://creativecommons.org/licenses/by-sa/4.0/))
-
 ### Advanced systems
-
-**Topics covered**:
-`digital signaling`
-`combinational logic`
-`CMOS technologies`
-`sequential logic`
-`finite state machines`
-`processor instruction sets`
-`caches`
-`pipelining`
-`virtualization`
-`parallel processing`
-`virtual memory`
-`synchronization primitives`
-`system call interface`
-`and more`
-
 Courses | Duration | Effort | Prerequisites | Notes
 :-- | :--: | :--: | :--: | :--:
 [Computation Structures 1: Digital Circuits](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016) [alternative 1](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/) [alternative 2](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/) | 10 weeks | 6 hours/week | [Nand2Tetris II](https://www.coursera.org/learn/nand2tetris2) | Alternate links contain all 3 courses.
@@ -241,23 +122,6 @@ Courses | Duration | Effort | Prerequisites | Notes
 [Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017) | 10 weeks | 6 hours/week | Computation Structures 2 |
 
 ### Advanced theory
-
-**Topics covered**:
-`formal languages`
-`Turing machines`
-`computability`
-`event-driven concurrency`
-`automata`
-`distributed shared memory`
-`consensus algorithms`
-`state machine replication`
-`computational geometry theory`
-`propositional logic`
-`relational logic`
-`Herbrand logic`
-`game trees`
-`and more`
-
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) ([alternative](http://aduni.org/courses/theory/index.php?view=cw)) | 13 weeks | 10 hours/week | [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about), logic, algorithms
@@ -265,7 +129,6 @@ Courses | Duration | Effort | Prerequisites
 [Game Theory](https://www.coursera.org/learn/game-theory-1) | 8 weeks | 3 hours/week | mathematical thinking, probability, calculus
 
 ### Advanced Information Security
-
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals) | 5 weeks | 4-6 hours/week | understanding basic web technologies
@@ -276,7 +139,6 @@ Courses | Duration | Effort | Prerequisites
 [Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics) | 7 weeks | 1-2 hours/week | Secure Software Development: Implementation
 
 ### Advanced math
-
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/m6wHbP6)
@@ -286,18 +148,6 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Probability](https://projects.iq.harvard.edu/stat110/home) | 15 weeks | 5-10 hours/week | [Differentiation and Integration](https://www.edx.org/course/calculus-1b-integration) | [chat](https://discord.gg/UVjs9BU)
 
 ## Final project
-
-Part of learning is doing.
-The assignments and exams for each course are to prepare you to use your knowledge to solve real-world problems.
-
-After you've completed Core CS and the parts of Advanced CS relevant to you,
-you should identify a problem that you can solve using the knowledge you've acquired.
-You can create something entirely new, or you can improve some tool/program that you use and wish were better.
-
-Students who would like more guidance in creating a project may choose to use a series of project oriented courses.
-Here is a sample of options
-(many more are available, at this point you should be capable of identifying a series that is interesting and relevant to you):
-
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Fullstack Open](https://fullstackopen.com/en/) | 12 weeks | 15 hours/week | programming
@@ -311,21 +161,6 @@ Courses | Duration | Effort | Prerequisites
 [Game Design and Development with Unity 2020 (Specialization)](https://www.coursera.org/specializations/game-design-and-development) | 6 months | 5 hours/week | programming, interactive design
 
 ## Congratulations
-
-After completing the requirements of the curriculum above,
-you will have completed the equivalent of a full bachelor's degree in Computer Science.
-Congratulations!
-
-What is next for you? The possibilities are boundless and overlapping:
-
-- Look for a job as a developer!
-- Check out the [readings](extras/readings.md) for classic books you can read that will sharpen your skills and expand your knowledge.
-- Join a local developer meetup (e.g. via [meetup.com](https://www.meetup.com/)).
-- Pay attention to emerging technologies in the world of software development:
-  + Explore the **actor model** through [Elixir](https://elixir-lang.org/), a new functional programming language for the web based on the battle-tested Erlang Virtual Machine!
-  + Explore **borrowing and lifetimes** through [Rust](https://www.rust-lang.org/), a systems language which achieves memory- and thread-safety without a garbage collector!
-  + Explore **dependent type systems** through [Idris](https://www.idris-lang.org/), a new Haskell-inspired language with unprecedented support for type-driven development.
-
 ![keep learning](https://i.imgur.com/REQK0VU.jpg)
 
 # Code of conduct
